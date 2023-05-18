@@ -18,6 +18,13 @@
 
 <br>
 
+
+<hr>
+👉 About Me
+  &emsp;
+<p>I am a 22 year old systems engineer who does web and mobile development, I like to learn new things, to be self-taught in order to improve my programming skills.</p>
+<hr>
+
 ### 🛠️ My Skills
 
 ### 👉 Programming languages
