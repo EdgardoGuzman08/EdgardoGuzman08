@@ -133,13 +133,6 @@
   </a>
  </p>
 
- ### 👉 Analytics
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
-</p>
-
  ### 👉 Software & Tools
  
 <p>
